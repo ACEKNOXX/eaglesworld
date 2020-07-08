@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+  body{
+    /* background:#333 !important ; */
+  }
+  .bizagn--banner-slide-text{
+    width: 190px !important;
+  }
+  .bannertext{
+    font-size: 40px !important;
+    color:#eee !important;
+  }
+  .bizagn--nav-menu{
+    display: none !important;
+  }
+  .ssvg-img-banner{
+    height:600px;
+    width:400px;
+  }
+  .main-image{
+    padding:0px 0px 0px 0px !important;
+  }
+  .bg-1{
+    height:550px !important;
+  }
+}
